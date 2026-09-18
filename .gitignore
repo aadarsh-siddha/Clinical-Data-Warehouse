@@ -224,3 +224,13 @@ terraform/producer/.terraform.lock.hcl
 ec2-keypair.pem
 producer/kafka_config.json
 api-key-BUWKURPP3EQGZGYD.txt
+databricks/.DS_Store
+producer/.DS_Store
+.DS_Store
+
+producer/synthea
+.idea/data_eng_project.iml
+.idea/data_eng_project.iml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/

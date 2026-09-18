@@ -1,6 +1,0 @@
-Ipython
-jupyter
-confluent-kafka
-cachetools
-authlib
-fastavro

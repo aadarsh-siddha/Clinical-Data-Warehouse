@@ -5,9 +5,9 @@ WORKDIR /app
 
 # Copy the requirements file and install Python dependencies
 COPY requirements.txt .
-COPY notebooks/ notebooks/
-COPY scripts/ scripts/
-COPY resources/ resources/
+COPY ../notebooks/ notebooks/
+COPY ../scripts/ scripts/
+COPY ../resources/ resources/
 COPY main_script.py .
 COPY kafka_config.json config/
 RUN pip install --no-cache-dir -r requirements.txt
