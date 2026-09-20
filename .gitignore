@@ -233,4 +233,4 @@ producer/synthea
 .idea/data_eng_project.iml
 .idea/misc.xml
 .idea/vcs.xml
-.idea/
+.idea/*
